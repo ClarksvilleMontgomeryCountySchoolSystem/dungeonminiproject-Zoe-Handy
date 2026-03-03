@@ -5,4 +5,4 @@ if drawbridge_raised:
 else:
     outcome = "Doom: It really isn't your day. Hope you can swim!"
 
-    print(outcome)
+print(outcome)
